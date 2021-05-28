@@ -116,11 +116,11 @@ canvas = createCanvas(displayWidth, displayHeight-150)
     back = createSprite(1080, 150,550,950)
     back.shapeColor = "white"
 
-    Speech = createSprite(1050, 170,10,10)
+    Speech = createSprite(1050, 150,10,10)
     Speech.addImage(speech)
     Speech.scale = 1.1
 
-    Medals = createSprite(1070, 470,10,10)
+    Medals = createSprite(1070, 450,10,10)
     Medals.addImage(medals)
     Medals.scale = 0.6
 
