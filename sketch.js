@@ -710,7 +710,7 @@ if(Background1.x<-400){
     text("A final message from the creator:",displayWidth/2,displayHeight/2 - 300)
     textSize(30)
     text("'You don't have to save the city to be brave...",displayWidth/2,displayHeight/2 - 200)
-    text("To be brave, be cautious, stay healthy, and help protect each other, ",displayWidth/2,displayHeight/2 - 100)
+    text("To be brave, be cautious, stay healthy, and help protect each other. ",displayWidth/2,displayHeight/2 - 100)
     textSize(40)
     text("#HandsSpaceSafe'",displayWidth/2,displayHeight/2)
 
